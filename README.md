@@ -1,6 +1,6 @@
 # QLabs PQC SDK - Python
 
-**Status**: 🚧 Coming Soon (Beta: Q2 2025)
+**Status**: 🚧 Coming Soon (Beta: Q2 2026)
 
 Python SDK for QLabs PQC Signature API.
 
